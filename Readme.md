@@ -1,4 +1,4 @@
-# Arquivo readme do curso de git e github
+# Arquivo Readme do curso de Git e Github
 
 1º Edição 
 
